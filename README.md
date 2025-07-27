@@ -29,9 +29,11 @@ git clone https://github.com/sahil-0905/QuickChat
 2. Start the client
 
 cd client
+npm install 
 npm run dev
 
 3 start server
 
 cd server
+npm install 
 npm run server
